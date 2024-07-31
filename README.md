@@ -1,3 +1,9 @@
+# About the fork
+
+This is a fork of https://github.com/Sology/smart_listing.
+
+The fork adds compatibility with Ruby 3
+
 # SmartListing
 
 SmartListing helps creating AJAX-enabled lists of ActiveRecord collections or arrays with pagination, filtering, sorting and in-place editing.
